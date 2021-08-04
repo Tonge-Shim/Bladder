@@ -1,0 +1,2 @@
+both array and asarray convert structured data into ndarray, but the main difference is that when the data source is ndarray, array will still copy a copy, 
+occupying new memory, but asarray will not.
