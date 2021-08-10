@@ -45,6 +45,10 @@ example>
   who = (**d)
   > 1, 2, 3
 
+=============================================
+isinstance():
 
+> example:
+    isinstance(4, int) --> is 4 is an 'int'? ==> 'True'
 
 
